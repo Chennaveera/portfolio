@@ -3,7 +3,7 @@ export default function Projects(){
     {
       title: "Digital Product Selling Platform",
       desc: "A full‑stack platform to sell ebooks/templates with payments and admin.",
-      github: "https://github.com/Chennaveera/Digtal",
+      github: "https://github.com/Chennaveera/Digital",
       live: "#"
     },
     {
