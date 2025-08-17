@@ -11,12 +11,6 @@ export default function Projects(){
       desc: "An e-commerce platform for buying and selling products.",
       github: "https://github.com/Chennaveera/KLE",
       live: "#"
-    },
-    {
-      title: "Task Manager",
-      desc: "CRUD task manager with authentication and filters.",
-      github: "https://github.com/Chennaveera/task-manager",
-      live: "#"
     }
   ];
 
